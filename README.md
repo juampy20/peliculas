@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62876b26e26cc40014b2d9ff/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nuevo en Pluto TV", Precious
 https://helmerluzo.github.io/PlutoTV_HL/vod/m3u8_ES/62876b26e26cc40014b2d9ff.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62876ae6e26cc40014b29aac/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Nuevo en Pluto TV", Transsiberian
